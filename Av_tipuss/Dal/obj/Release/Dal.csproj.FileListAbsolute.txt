@@ -1,0 +1,21 @@
+D:\1RammyCube\Dal\bin\Release\Dal.dll
+D:\1RammyCube\Dal\bin\Release\Dal.pdb
+D:\1RammyCube\Dal\bin\Release\BL.dll
+D:\1RammyCube\Dal\bin\Release\BL.pdb
+D:\1RammyCube\Dal\obj\Release\ResolveAssemblyReference.cache
+D:\1RammyCube\Dal\obj\Release\Dal.dll
+D:\1RammyCube\Dal\obj\Release\Dal.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\bin\Release\Dal.dll
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\bin\Release\Dal.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\bin\Release\BL.dll
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\bin\Release\BL.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\obj\Release\Dal.dll
+C:\Users\Tzvi\Desktop\1RammyCube\Dal\obj\Release\Dal.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\bin\Release\Dal.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\bin\Release\Dal.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\bin\Release\BL.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\bin\Release\BL.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\obj\Release\Dal.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\Dal\obj\Release\Dal.pdb

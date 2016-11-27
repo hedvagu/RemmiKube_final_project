@@ -1,0 +1,72 @@
+D:\1RammyCube\RammyCube\obj\x86\Release\ResolveAssemblyReference.cache
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.AboutBox1.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormAttributes.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormGame.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormHelp.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormOpen.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormSaveGame.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormWellcome.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.MDIParent1.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.Properties.Resources.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormGame.he-IL.resources
+D:\1RammyCube\RammyCube\obj\x86\Release\GenerateResource.read.1.tlog
+D:\1RammyCube\RammyCube\obj\x86\Release\GenerateResource.write.1.tlog
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.csproj.ResolveComReference.cache
+D:\1RammyCube\RammyCube\bin\Release\RammyCube.exe
+D:\1RammyCube\RammyCube\bin\Release\RammyCube.pdb
+D:\1RammyCube\RammyCube\bin\Release\he-IL\RammyCube.resources.dll
+D:\1RammyCube\RammyCube\bin\Release\BL.dll
+D:\1RammyCube\RammyCube\bin\Release\Dal.dll
+D:\1RammyCube\RammyCube\bin\Release\BL.pdb
+D:\1RammyCube\RammyCube\bin\Release\Dal.pdb
+D:\1RammyCube\RammyCube\obj\x86\Release\he-IL\RammyCube.resources.dll
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.exe
+D:\1RammyCube\RammyCube\obj\x86\Release\RammyCube.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\RammyCube.exe
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\RammyCube.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\he-IL\RammyCube.resources.dll
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\BL.dll
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\Dal.dll
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\BL.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\bin\Release\Dal.pdb
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.csproj.ResolveComReference.cache
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.AboutBox1.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormAttributes.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormGame.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormHelp.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormOpen.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormSaveGame.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormWellcome.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.MDIParent1.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.Properties.Resources.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.FormGame.he-IL.resources
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\he-IL\RammyCube.resources.dll
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.exe
+C:\Users\Tzvi\Desktop\1RammyCube\RammyCube\obj\x86\Release\RammyCube.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\RammyCube.exe
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\RammyCube.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\he-IL\RammyCube.resources.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\BL.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\Dal.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\BL.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\bin\Release\Dal.pdb
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.csproj.ResolveComReference.cache
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.AboutBox1.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormAttributes.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormGame.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormHelp.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormOpen.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormSaveGame.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormWellcome.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.MDIParent1.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.Properties.Resources.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.FormGame.he-IL.resources
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\he-IL\RammyCube.resources.dll
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.exe
+C:\Users\Tzvi\Desktop\אב טיפוס\RammyCube\obj\x86\Release\RammyCube.pdb

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="BL.ccCard" BaseTypeListCollapsed="true">
+    <Position X="2" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEEADBAQAAAJECAAAkKAAAAAACAwAAAgAAABBA=</HashCode>
+      <FileName>ccCard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="BL.ucGame">
+    <Position X="8" Y="1.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IC6AQAQICDBKEQIAgQCCgqIqERSgYAygASABAIQAAwI=</HashCode>
+      <FileName>ucGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.ucPlayerBoard" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAACAAAAAAAACAAAACGAAEEAAAAAAAAAAAABA=</HashCode>
+      <FileName>ucPlayerBoard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RammyCube.Properties.Resources">
+    <Position X="11" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAgQAAABEAAAAQIAAAAAAAAAACQAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Button" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="BL.eColor">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BL.eStatus">
+    <Position X="2" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="BL.dComputerFinishedEventHandler">
+    <Position X="5" Y="6.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucGame.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BL.dLoadChangesFinishedEventHandler">
+    <Position X="5" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucGame.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>

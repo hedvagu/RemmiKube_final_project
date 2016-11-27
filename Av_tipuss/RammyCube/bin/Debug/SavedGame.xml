@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<properties numOfPlayers="2" turn="1">
+  <player1 name="איטי" computer="false" cntCard="12">
+    <card1 number="7" color="Green" />
+    <card2 number="12" color="Green" />
+    <card3 number="6" color="Green" />
+    <card4 number="3" color="Red" />
+    <card5 number="10" color="Orange" />
+    <card6 number="5" color="Red" />
+    <card7 number="8" color="Red" />
+    <card8 number="9" color="Red" />
+    <card9 number="9" color="Orange" />
+    <card10 number="6" color="Orange" />
+    <card11 number="1" color="Red" />
+    <card12 number="5" color="Green" />
+  </player1>
+  <player2 name="חיה" computer="false" cntCard="14">
+    <card1 number="3" color="Blue" />
+    <card2 number="10" color="Red" />
+    <card3 number="9" color="Green" />
+    <card4 number="13" color="Orange" />
+    <card5 number="6" color="Red" />
+    <card6 number="1" color="Red" />
+    <card7 number="3" color="Red" />
+    <card8 number="1" color="Blue" />
+    <card9 number="9" color="Red" />
+    <card10 number="4" color="Red" />
+    <card11 number="3" color="Green" />
+    <card12 number="2" color="Green" />
+    <card13 number="2" color="Blue" />
+    <card14 number="7" color="Blue" />
+  </player2>
+  <box>
+    <card1 number="1" color="Blue" status="Player" />
+    <card2 number="2" color="Blue" status="Player" />
+    <card3 number="3" color="Blue" status="Box" />
+    <card4 number="4" color="Blue" status="Box" />
+    <card5 number="5" color="Blue" status="Box" />
+    <card6 number="6" color="Blue" status="Box" />
+    <card7 number="7" color="Blue" status="Player" />
+    <card8 number="8" color="Blue" status="Box" />
+    <card9 number="9" color="Blue" status="Box" />
+    <card10 number="10" color="Blue" status="Box" />
+    <card11 number="11" color="Blue" status="Box" />
+    <card12 number="12" color="Blue" status="Box" />
+    <card13 number="13" color="Blue" status="Box" />
+    <card14 number="1" color="Blue" status="Box" />
+    <card15 number="2" color="Blue" status="Box" />
+    <card16 number="3" color="Blue" status="Player" />
+    <card17 number="4" color="Blue" status="Box" />
+    <card18 number="5" color="Blue" status="Box" />
+    <card19 number="6" color="Blue" status="Box" />
+    <card20 number="7" color="Blue" status="Box" />
+    <card21 number="8" color="Blue" status="Box" />
+    <card22 number="9" color="Blue" status="Box" />
+    <card23 number="10" color="Blue" status="Box" />
+    <card24 number="11" color="Blue" status="Box" />
+    <card25 number="12" color="Blue" status="mainBoard" />
+    <card26 number="13" color="Blue" status="Box" />
+    <card27 number="14" color="Blue" status="Box" />
+    <card28 number="1" color="Red" status="Player" />
+    <card29 number="2" color="Red" status="Box" />
+    <card30 number="3" color="Red" status="Player" />
+    <card31 number="4" color="Red" status="Box" />
+    <card32 number="5" color="Red" status="Box" />
+    <card33 number="6" color="Red" status="Box" />
+    <card34 number="7" color="Red" status="Box" />
+    <card35 number="8" color="Red" status="Box" />
+    <card36 number="9" color="Red" status="Player" />
+    <card37 number="10" color="Red" status="Box" />
+    <card38 number="11" color="Red" status="Box" />
+    <card39 number="12" color="Red" status="Box" />
+    <card40 number="13" color="Red" status="Box" />
+    <card41 number="1" color="Red" status="Player" />
+    <card42 number="2" color="Red" status="Box" />
+    <card43 number="3" color="Red" status="Player" />
+    <card44 number="4" color="Red" status="Player" />
+    <card45 number="5" color="Red" status="Player" />
+    <card46 number="6" color="Red" status="Player" />
+    <card47 number="7" color="Red" status="Box" />
+    <card48 number="8" color="Red" status="Player" />
+    <card49 number="9" color="Red" status="Player" />
+    <card50 number="10" color="Red" status="Player" />
+    <card51 number="11" color="Red" status="Box" />
+    <card52 number="12" color="Red" status="mainBoard" />
+    <card53 number="13" color="Red" status="Box" />
+    <card54 number="14" color="Red" status="Box" />
+    <card55 number="1" color="Green" status="Box" />
+    <card56 number="2" color="Green" status="Player" />
+    <card57 number="3" color="Green" status="Box" />
+    <card58 number="4" color="Green" status="Box" />
+    <card59 number="5" color="Green" status="Player" />
+    <card60 number="6" color="Green" status="Player" />
+    <card61 number="7" color="Green" status="Player" />
+    <card62 number="8" color="Green" status="Box" />
+    <card63 number="9" color="Green" status="Player" />
+    <card64 number="10" color="Green" status="Box" />
+    <card65 number="11" color="Green" status="Box" />
+    <card66 number="12" color="Green" status="mainBoard" />
+    <card67 number="13" color="Green" status="Box" />
+    <card68 number="1" color="Green" status="Box" />
+    <card69 number="2" color="Green" status="Box" />
+    <card70 number="3" color="Green" status="Player" />
+    <card71 number="4" color="Green" status="Box" />
+    <card72 number="5" color="Green" status="Box" />
+    <card73 number="6" color="Green" status="Box" />
+    <card74 number="7" color="Green" status="Box" />
+    <card75 number="8" color="Green" status="Box" />
+    <card76 number="9" color="Green" status="Box" />
+    <card77 number="10" color="Green" status="Box" />
+    <card78 number="11" color="Green" status="Box" />
+    <card79 number="12" color="Green" status="Player" />
+    <card80 number="13" color="Green" status="Box" />
+    <card81 number="14" color="Green" status="Box" />
+    <card82 number="1" color="Orange" status="Box" />
+    <card83 number="2" color="Orange" status="Box" />
+    <card84 number="3" color="Orange" status="Box" />
+    <card85 number="4" color="Orange" status="Box" />
+    <card86 number="5" color="Orange" status="Box" />
+    <card87 number="6" color="Orange" status="Box" />
+    <card88 number="7" color="Orange" status="Box" />
+    <card89 number="8" color="Orange" status="Box" />
+    <card90 number="9" color="Orange" status="Player" />
+    <card91 number="10" color="Orange" status="Player" />
+    <card92 number="11" color="Orange" status="Box" />
+    <card93 number="12" color="Orange" status="Box" />
+    <card94 number="13" color="Orange" status="Player" />
+    <card95 number="1" color="Orange" status="Box" />
+    <card96 number="2" color="Orange" status="Box" />
+    <card97 number="3" color="Orange" status="Box" />
+    <card98 number="4" color="Orange" status="Box" />
+    <card99 number="5" color="Orange" status="Box" />
+    <card100 number="6" color="Orange" status="Player" />
+    <card101 number="7" color="Orange" status="Box" />
+    <card102 number="8" color="Orange" status="Box" />
+    <card103 number="9" color="Orange" status="Box" />
+    <card104 number="10" color="Orange" status="Box" />
+    <card105 number="11" color="Orange" status="Box" />
+    <card106 number="12" color="Orange" status="Box" />
+    <card107 number="13" color="Orange" status="Box" />
+    <card108 number="14" color="Orange" status="Box" />
+  </box>
+  <mainBoard>
+    <seria1 x="137" y="266">
+      <card1 number="12" color="Blue" status="mainBoard" />
+      <card2 number="12" color="Red" status="mainBoard" />
+      <card3 number="12" color="Green" status="mainBoard" />
+    </seria1>
+  </mainBoard>
+</properties>
